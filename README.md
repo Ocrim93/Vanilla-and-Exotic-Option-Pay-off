@@ -8,3 +8,15 @@ Key ingredients:
   - By overloading the operator() we can make an object look like a function;
   - const attribute makes our program faster and forces the coder to be aware of which code is allowed to change things and which code cannot;
   - Strike prices and Lower and Upper bound are private data which help us to separate interface from implementation. 
+
+
+ Virtual method Benefits:
+		- Program is much clearer; 
+		- Extra functionality dependent on the pyaoff options.
+    
+    
+ Implemented Options:
+  - European Call Option 
+  - European Put Option
+  - Double Digital Option  
+    
